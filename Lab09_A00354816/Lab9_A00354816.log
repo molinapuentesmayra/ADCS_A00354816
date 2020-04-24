@@ -1,0 +1,37 @@
+INFO:root:Method chosen 1
+INFO:root:USER DB - new user record for name mayra:
+INFO:root:Method chosen 2
+INFO:root:USER DB - save user database to file user_dv.csv
+INFO:root:Method chosen 3
+INFO:root:USER DB - reading database from file user_dv.csv
+INFO:root:Method chosen 4
+INFO:root:USER_DB - Search record, user found
+INFO:root:Method chosen 4
+WARNING:root:USER_DB - Search record, user NOT found
+INFO:root:Method chosen 1
+INFO:root:USER DB - new user record for name mayra:
+INFO:root:Method chosen 2
+INFO:root:USER DB - save user database to file user_dv.csv
+INFO:root:Method chosen 3
+INFO:root:USER DB - reading database from file user_dv.csv
+INFO:root:Method chosen 1
+INFO:root:Method chosen 1
+INFO:root:USER DB - new user record for name mayra:
+INFO:root:Method chosen 1
+INFO:root:USER DB - new user record for name mayra:
+INFO:root:Method chosen 1
+INFO:root:USER DB - new user record for name mayr:
+INFO:root:Method chosen 4
+WARNING:root:USER_DB - Search record, user NOT found
+INFO:root:Method chosen 1
+INFO:root:USER DB - new user record for name mayra:
+INFO:root:Method chosen 4
+INFO:root:USER_DB - Search record, user found
+INFO:root:Method chosen 4
+WARNING:root:USER_DB - Search record, user NOT found
+INFO:root:Method chosen 4
+WARNING:root:USER_DB - Search record, user NOT found
+INFO:root:Method chosen 4
+WARNING:root:USER_DB - Search record, user NOT found
+INFO:root:Method chosen 4
+WARNING:root:USER_DB - Search record, user NOT found
